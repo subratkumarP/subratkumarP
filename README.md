@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Subrat KumarP and am from Bangaluru, India
 #### I am a Software Quality and Automation Engineer
-![I am a Software Quality and Automation Engineer](https://x.com/PalaSubrat/header_photo.png)
-
 Highly motivated and organized Lead Test Engineer with a proven track record in software testing. Experienced in managing testing teams, implementing test strategies, and ensuring high-quality deliverables. Proficient in various testing methodologies, tools, and automation frameworks.
 Led a team of 10 testers in planning, executing, and reporting on complex testing projects.
 Developed and implemented test strategies for multiple software products, ensuring comprehensive coverage.

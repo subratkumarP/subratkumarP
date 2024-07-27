@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Subrat KumarP
 #### I am Software Quality Engineer
-![I am Software Quality Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Quality Engineer](https://x.com/PalaSubrat/header_photo)
 
 Highly motivated and organized Lead Test Engineer with a proven track record in software testing. Experienced in managing testing teams, implementing test strategies, and ensuring high-quality deliverables. Proficient in various testing methodologies, tools, and automation frameworks.
 Led a team of 10 testers in planning, executing, and reporting on complex testing projects.

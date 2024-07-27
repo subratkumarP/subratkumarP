@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋, my name is Subrat KumarP
+#### I am Software Quality Engineer
+![I am Software Quality Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Highly motivated and organized Lead Test Engineer with a proven track record in software testing. Experienced in managing testing teams, implementing test strategies, and ensuring high-quality deliverables. Proficient in various testing methodologies, tools, and automation frameworks.
 Led a team of 10 testers in planning, executing, and reporting on complex testing projects.
@@ -11,10 +13,11 @@ Conducted regression, functional, and performance testing.
 Automated repetitive test scenarios using Selenium WebDriver.
 Investigated and reported defects, working closely with developers to ensure timely resolution.
 Contributed to process improvements by suggesting best practices and tools.
-Testing Tools: Selenium, Azure devops,Postman, Soap UI
-Test Automation: Selenium WebDriver, TestNG, JUnit
-Performance Testing: JMeter
-Defect Tracking: Redmine, Azure DevOps
-Programming Languages: Java, Python
-Agile Methodologies: Scrum, Kanban
-Version Control: Git
+
+Skills: Software Testing/Agile/Java/Selenium WebDriver/J Meter/Azure Devops
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
